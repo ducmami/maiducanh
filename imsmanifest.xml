@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="bzXuzvEBb7mtn" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>CAM 1.3</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:string>Baigiang_sp1</lom:string>
+</lom:title>
+</lom:general>
+<lom:educational>
+<lom:typicalLearningTime>
+<lom:duration>PT1H0M0S</lom:duration>
+</lom:typicalLearningTime>
+</lom:educational>
+<lom:metaMetadata>
+<lom:metadataSchema>LOMv1.0</lom:metadataSchema>
+<lom:metadataSchema>SCORM_CAM_v1.3</lom:metadataSchema>
+</lom:metaMetadata>
+</lom:lom>
+</metadata>
+<organizations default="baigiang_sp1_organization">
+<organization identifier="baigiang_sp1_organization">
+<title>Baigiang_sp1</title>
+<item identifier="B3AE9EA0-0CD7-49CA-849C-F440F2C31594" identifierref="resource">
+<title>MặtTrời_sp1</title>
+<imsss:sequencing>
+<imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
+</imsss:sequencing>
+</item>
+<imsss:sequencing>
+<imsss:controlMode flow="true"/>
+</imsss:sequencing>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormType="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/thmb1.png"/>
+<file href="res/data/slide1.js"/>
+<file href="res/data/slide1.css"/>
+<file href="res/data/thmb2.png"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/audios/snd-e92b1275cfa27114c50a205f7ac47b05fa11e1a8.mp3"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/fonts/fnt2.woff"/>
+<file href="res/data/quiz1/images/img-03dc38423a9a8e03290f61162569b600175a20d7.PNG"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/thmb3.png"/>
+<file href="res/data/video1.mp4"/>
+<file href="res/data/slide3.js"/>
+<file href="res/data/slide3.css"/>
+<file href="res/data/thmb4.png"/>
+<file href="res/data/slide4.js"/>
+<file href="res/data/slide4.css"/>
+<file href="res/data/thmb5.png"/>
+<file href="res/data/slide5.js"/>
+<file href="res/data/slide5.css"/>
+<file href="res/data/thmb6.png"/>
+<file href="res/data/quiz2.js"/>
+<file href="res/data/quiz2/audios/snd-fd7bc0ae62d5b3293030f85d838bfe834c9739cb.mp3"/>
+<file href="res/data/quiz2/fonts/fnt0.woff"/>
+<file href="res/data/quiz2/fonts/fnt1.woff"/>
+<file href="res/data/quiz2/images/img-37007a9f9eb09f698559746ec111b89233591f9a.PNG"/>
+<file href="res/data/quiz2/images/img-60115d214b4edd8e578e5998945a726bb4ebfe3b.jpg"/>
+<file href="res/data/quiz2/images/quiz_bg_1.png"/>
+<file href="res/data/thmb7.png"/>
+<file href="res/data/quiz3.js"/>
+<file href="res/data/quiz3/audios/snd-87e3a03590309bf2355b9c1b7b60294fdbe9e3db.mp3"/>
+<file href="res/data/quiz3/fonts/fnt0.woff"/>
+<file href="res/data/quiz3/fonts/fnt1.woff"/>
+<file href="res/data/quiz3/images/img-37007a9f9eb09f698559746ec111b89233591f9a.PNG"/>
+<file href="res/data/quiz3/images/quiz_bg_2.png"/>
+<file href="res/data/thmb8.jpg"/>
+<file href="res/data/slide8.js"/>
+<file href="res/data/slide8.css"/>
+<file href="res/data/thmb9.png"/>
+<file href="res/data/quiz4.js"/>
+<file href="res/data/quiz4/audios/snd-a7d85dda52fdfa06464df17c06d1c333bc934032.mp3"/>
+<file href="res/data/quiz4/fonts/fnt0.woff"/>
+<file href="res/data/quiz4/fonts/fnt1.woff"/>
+<file href="res/data/quiz4/fonts/fnt2.woff"/>
+<file href="res/data/quiz4/images/img-37007a9f9eb09f698559746ec111b89233591f9a.PNG"/>
+<file href="res/data/quiz4/images/img-4f25bd46bc7f14667f2b64e4dae6a70cf3cd812f.PNG"/>
+<file href="res/data/quiz4/images/quiz_bg_3.png"/>
+<file href="res/data/thmb10.png"/>
+<file href="res/data/slide10.js"/>
+<file href="res/data/slide10.css"/>
+<file href="res/data/thmb11.png"/>
+<file href="res/data/video2.mp4"/>
+<file href="res/data/slide11.js"/>
+<file href="res/data/slide11.css"/>
+<file href="res/data/thmb12.png"/>
+<file href="res/data/slide12.js"/>
+<file href="res/data/slide12.css"/>
+<file href="res/data/thmb13.png"/>
+<file href="res/data/video3.mp4"/>
+<file href="res/data/slide13.js"/>
+<file href="res/data/slide13.css"/>
+<file href="res/data/thmb14.png"/>
+<file href="res/data/quiz5.js"/>
+<file href="res/data/quiz5/audios/snd-2eb74c82c064d42962c1d58e74894a239d8cec3c.mp3"/>
+<file href="res/data/quiz5/fonts/fnt0.woff"/>
+<file href="res/data/quiz5/fonts/fnt1.woff"/>
+<file href="res/data/quiz5/images/img-37007a9f9eb09f698559746ec111b89233591f9a.PNG"/>
+<file href="res/data/quiz5/images/img-c366bcb5be49a9db4e79b8047ae90160be34ac5a.PNG"/>
+<file href="res/data/quiz5/images/quiz_bg_4.png"/>
+<file href="res/data/thmb15.png"/>
+<file href="res/data/quiz6.js"/>
+<file href="res/data/quiz6/audios/snd-d95145bccf25224974cb359012c2979ba45115ca.mp3"/>
+<file href="res/data/quiz6/fonts/fnt0.woff"/>
+<file href="res/data/quiz6/fonts/fnt1.woff"/>
+<file href="res/data/quiz6/images/img-03dc38423a9a8e03290f61162569b600175a20d7.PNG"/>
+<file href="res/data/quiz6/images/img-c366bcb5be49a9db4e79b8047ae90160be34ac5a.PNG"/>
+<file href="res/data/quiz6/images/quiz_bg_5.png"/>
+<file href="res/data/thmb16.png"/>
+<file href="res/data/slide16.js"/>
+<file href="res/data/slide16.css"/>
+<file href="res/data/thmb17.png"/>
+<file href="res/data/quiz7.js"/>
+<file href="res/data/quiz7/audios/snd-8aa717426b71c6555d3e5e5eefaaea216360c8d3.mp3"/>
+<file href="res/data/quiz7/fonts/fnt0.woff"/>
+<file href="res/data/quiz7/fonts/fnt1.woff"/>
+<file href="res/data/quiz7/images/img-1dd71bf495bc59ea259f271ec97732b06beaa192.jpg"/>
+<file href="res/data/quiz7/images/img-37007a9f9eb09f698559746ec111b89233591f9a.PNG"/>
+<file href="res/data/quiz7/images/img-c66af72e5a9a33751ed35b9b0be8f93563798258.jpg"/>
+<file href="res/data/quiz7/images/img-ce283fba3cf4b4e42519801d81f010f58b2f95a0.jpg"/>
+<file href="res/data/quiz7/images/img-f32c89b2f499b373d04985cc9b54fd64f5a8b727.jpg"/>
+<file href="res/data/quiz7/images/quiz_bg_6.png"/>
+<file href="res/data/thmb18.png"/>
+<file href="res/data/quiz8.js"/>
+<file href="res/data/quiz8/audios/snd-741f4f6fcac56065ca23d5d7d67dae9686803421.mp3"/>
+<file href="res/data/quiz8/fonts/fnt0.woff"/>
+<file href="res/data/quiz8/fonts/fnt1.woff"/>
+<file href="res/data/quiz8/images/img-37007a9f9eb09f698559746ec111b89233591f9a.PNG"/>
+<file href="res/data/quiz8/images/quiz_bg_7.png"/>
+<file href="res/data/thmb19.png"/>
+<file href="res/data/video4.mp4"/>
+<file href="res/data/slide19.js"/>
+<file href="res/data/slide19.css"/>
+<file href="res/data/thmb20.png"/>
+<file href="res/data/slide20.js"/>
+<file href="res/data/slide20.css"/>
+<file href="res/data/thmb21.png"/>
+<file href="res/data/video5.mp4"/>
+<file href="res/data/slide21.js"/>
+<file href="res/data/slide21.css"/>
+<file href="res/data/thmb22.png"/>
+<file href="res/data/slide22.js"/>
+<file href="res/data/slide22.css"/>
+<file href="res/data/thmb23.png"/>
+<file href="res/data/video6.mp4"/>
+<file href="res/data/slide23.js"/>
+<file href="res/data/slide23.css"/>
+<file href="res/data/thmb24.png"/>
+<file href="res/data/slide24.js"/>
+<file href="res/data/slide24.css"/>
+<file href="res/data/thmb25.png"/>
+<file href="res/data/video7.mp4"/>
+<file href="res/data/slide25.js"/>
+<file href="res/data/slide25.css"/>
+<file href="res/data/thmb26.png"/>
+<file href="res/data/slide26.js"/>
+<file href="res/data/slide26.css"/>
+<file href="res/data/sound1.mp3"/>
+<file href="res/data/sound2.mp3"/>
+<file href="res/data/sound3.mp3"/>
+<file href="res/data/sound4.mp3"/>
+<file href="res/data/sound5.mp3"/>
+<file href="res/data/sound6.mp3"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt1.woff"/>
+<file href="res/data/fnt10.woff"/>
+<file href="res/data/fnt2.woff"/>
+<file href="res/data/fnt3.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt5.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/fnt7.woff"/>
+<file href="res/data/fnt8.woff"/>
+<file href="res/data/fnt9.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/img0.png"/>
+<file href="res/data/img1.png"/>
+<file href="res/data/img10.png"/>
+<file href="res/data/img11.png"/>
+<file href="res/data/img12.png"/>
+<file href="res/data/img13.png"/>
+<file href="res/data/img14.png"/>
+<file href="res/data/img15.png"/>
+<file href="res/data/img16.png"/>
+<file href="res/data/img17.png"/>
+<file href="res/data/img18.png"/>
+<file href="res/data/img19.png"/>
+<file href="res/data/img2.png"/>
+<file href="res/data/img20.png"/>
+<file href="res/data/img21.png"/>
+<file href="res/data/img22.png"/>
+<file href="res/data/img23.png"/>
+<file href="res/data/img24.png"/>
+<file href="res/data/img25.png"/>
+<file href="res/data/img26.png"/>
+<file href="res/data/img27.png"/>
+<file href="res/data/img28.png"/>
+<file href="res/data/img29.png"/>
+<file href="res/data/img3.png"/>
+<file href="res/data/img30.png"/>
+<file href="res/data/img31.png"/>
+<file href="res/data/img32.png"/>
+<file href="res/data/img33.png"/>
+<file href="res/data/img34.png"/>
+<file href="res/data/img35.png"/>
+<file href="res/data/img4.png"/>
+<file href="res/data/img5.png"/>
+<file href="res/data/img6.png"/>
+<file href="res/data/img7.png"/>
+<file href="res/data/img8.gif"/>
+<file href="res/data/img9.png"/>
+</resource>
+</resources>
+</manifest>
